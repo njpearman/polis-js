@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Date: Fri, 02 Mar 2018 08:57:30 GMT
+Content-Length: 0
+Connection: keep-alive
+Location: https://developer.srgssr.ch
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: Accept, Content-Type, connection, content-length, Authorization, Location
+Access-Control-Allow-Credentials: true
+
